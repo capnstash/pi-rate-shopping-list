@@ -13,4 +13,4 @@
 
 
 ## Books
-- [ ] [The Invisible Hook: ](https://www.amazon.com/Invisible-Hook-Hidden-Economics-Pirates/dp/0691150095/ref=sr_1_1?crid=38U8BOXP2SHZR&keywords=the+invisible+hook+book&qid=1576020460&sprefix=the+invisi%2Caps%2C201&sr=8-1)
+- [x] [The Invisible Hook: ](https://www.peterleeson.com/The_Invisible_Hook.pdf)
